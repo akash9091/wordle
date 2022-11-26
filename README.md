@@ -1,0 +1,7 @@
+# wordlen game
+
+- Simple Wordle game using plain JavaScript.
+- Project includes core game logic and one CSS (word reveal) animation.
+- Wordlist taken from [charlesreid1](https://github.com/charlesreid1/five-letter-words).
+
+![Wordle game preview](https://miro.medium.com/max/796/0*RetBLVKkb5LQOMSj.gif)
